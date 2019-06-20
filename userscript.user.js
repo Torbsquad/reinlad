@@ -2,7 +2,7 @@
 // @name         Reinlads-fork
 // @namespace    https://github.com/erdbeere/reinlad
 // @version      0.1
-// @description  Holt die Reinlads vom 1. April 2019 jeden Samstag zurück
+// @description  Holt die Reinlads vom 1. April 2019 nicht nur jeden Samstag zurück
 // @author       erdbaer
 // @match        https://pr0gramm.com/*
 // @grant        none
